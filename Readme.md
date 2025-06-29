@@ -1,6 +1,8 @@
 # Karate Test Framework Execution Guide
 Configuring, and executing Karate API tests using pipeline. Teh benefit you can directly execute test just having KarateJAR file and feature files. No need to have any other dependencies. 
 
+Was used to test my Attax Controller API at Jenkins pipeline at Home server.
+
 Karate is an open-source API testing tool that combines API test automation, mocks, and performance testing into a single, unified framework. It uses a Gherkin-like syntax (similar to Cucumber) but is purpose-built for API testing, making it highly efficient for testing REST, SOAP, and GraphQL services.
 
 **Key Advantages:**
